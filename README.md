@@ -1,3 +1,4 @@
+![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
 <h1 align="center">Hi 👋, I'm Chetan Garg</h1>
 <h3 align="center">I’m interested in AI, ML, Data Analysis, Data Science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangarg2101&label=Profile%20views&color=0e75b6&style=flat" alt="chetangarg2101" /> </p>
