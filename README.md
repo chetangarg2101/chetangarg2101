@@ -1,11 +1,12 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Chetan Garg</h1>
-<h3 align="center">I’m interested in Coding, Data Analysis, Data Science, AI, ML</h3>
+<h3 align="center">I’m interested in AI, ML, Data Analysis, Data Science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangarg2101&label=Profile%20views&color=0e75b6&style=flat" alt="chetangarg2101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetangarg2101&theme=darkhub" alt="chetangarg2101" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetangarg2101&theme=" alt="chetangarg2101" /></a> </p>
 
-- 🔭 I’m currently working on **VisaKwik Startup**
-- 👯 I’m looking to collaborate on **AI and ML , Data Analytics Projects**
+- 🔭 I’m currently working in **VisaKwik**
+- 👯 I’m looking to collaborate with **Tech Companies for Job Oppurtunities**
 - 🌱 I’m currently learning **AI & ML , Web Scrapping and Fine Tuning**
 
 - 📫 How to reach me **chetangarg2101@gmail.com**
@@ -15,7 +16,7 @@
 <a href = "mailto:chetangarg2101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chetangarg2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="chetangarg2101" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/chetangarg2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="chetangarg2101" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/chetangarg2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="chetangarg2101" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
