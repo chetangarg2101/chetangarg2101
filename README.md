@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Chetan Garg</h1>
 <h3 align="center">I’m interested in AI, ML, Data Analysis, Data Science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangarg2101&label=Profile%20views&color=0e75b6&style=flat" alt="chetangarg2101" /> </p>
