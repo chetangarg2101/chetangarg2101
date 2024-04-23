@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Garg</h1>
 <h3 align="center">I’m interested in AI, ML, Data Analysis, Data Science </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangarg2101&label=Profile%20views&color=0e75b6&style=flat" alt="chetangarg2101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetangarg2101&theme=" alt="chetangarg2101" /></a> </p>
 
 - 🔭 I’m currently working in **VisaKwik**
 - 👯 I’m looking to collaborate with **Tech Companies for Job Oppurtunities**
