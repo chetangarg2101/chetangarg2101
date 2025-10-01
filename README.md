@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangarg2101&label=Profile%20views&color=0e75b6&style=flat" alt="chetangarg2101" /> </p>
 
 
-- 🔭 I’m currently working in **VisaKwik**
 - 👯 I’m looking to collaborate with **Tech Companies for Job Oppurtunities**
 - 🌱 I’m currently learning **AI & ML , Web Scrapping and Fine Tuning**
 
